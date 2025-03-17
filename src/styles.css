@@ -3,3 +3,11 @@
 	text-align: center;
 	margin-top: 45vh;
 }
+
+#debug-button {
+	position: absolute;
+        left: 50%;
+        top: 50%;
+	transform: translate(-50%, -50%);
+	margin-top: 10vh;
+}
